@@ -3,4 +3,4 @@ a short description
 
 this is a short story about this website and my pet mosquito
 
-search fot markdown gitgub
+search fot markdown github
